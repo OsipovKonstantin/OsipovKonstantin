@@ -3,7 +3,7 @@
 <a href="mailto:osipowko@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://t.me/osipov_ko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
-⭐️ **Интересный факт:** вне Java-разработки пишу супернаучные статьи по нефтяной геологии [на researchgate.net](https://www.researchgate.net/profile/Konstantin-Osipov-8)
+👨‍💻 Опыт разработки 1 год
 
 ## 💻 Мой стек:
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
@@ -24,8 +24,6 @@
 
 ---
 
-<!-- https://github.com/OsipovKonstantin/github-readme-stats -->
-[![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsipovKonstantin&theme=tokyonight)](https://github.com/OsipovKonstantin/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&theme=tokyonight)](https://github.com/OsipovKonstantin/github-readme-stats)
 
 ## 💻 Активности:
