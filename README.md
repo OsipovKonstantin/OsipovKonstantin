@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 [LeetCode](https://leetcode.com/osipowko/):
+![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
+
 <!--
 **OsipovKonstantin/OsipovKonstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
