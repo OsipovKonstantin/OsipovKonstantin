@@ -24,11 +24,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
 
-| 💻 **Технологии** | 🚀 **Проекты** |
+| 🚀 **Проекты** | 💻 **Технологии** |
 | - | - |
-| Java 11 (Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, Postman, Swagger | [![Explore-With-Me](https://img.shields.io/static/v1?label=&message=Explore-With-Me&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-explore-with-me) |
-| Java 11(Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Docker, JUnit 5, Mockito, Lombok, RESTfulAPI | [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-shareit) |
-| *Групповая разработка. Личный вклад: функциональности "Лента новостей" и "Список наиболее популярных фильмов"* Java 11(Core, Stream), Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/GlazyrinAV/java-filmorate) |
+| [![Explore-With-Me](https://img.shields.io/static/v1?label=&message=Explore-With-Me&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-explore-with-me) | Java 11 (Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, Postman, Swagger |
+| [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-shareit) | Java 11(Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Docker, JUnit 5, Mockito, Lombok, RESTfulAPI |
+| [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/GlazyrinAV/java-filmorate) | Java 11(Core, Stream), Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok. *Групповой проект. **Личный вклад**: функциональности "Лента новостей" и "Список наиболее популярных фильмов"* |
 
 
 ## :fire: Активности - [Leetcode](https://leetcode.com/osipowko/):
