@@ -3,7 +3,7 @@
 <a href="mailto:osipowko@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://t.me/osipov_ko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
-👨‍💻 Опыт разработки 1 год
+👨‍💻 Опыт разработки 1 год. В активном поиске работы
 
 ## 🛠 Мой стек:
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
