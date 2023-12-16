@@ -22,6 +22,8 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
+---
+
 <!-- https://github.com/OsipovKonstantin/github-readme-stats -->
 [![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsipovKonstantin&theme=tokyonight)](https://github.com/OsipovKonstantin/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&theme=tokyonight)](https://github.com/OsipovKonstantin/github-readme-stats)
