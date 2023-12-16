@@ -25,8 +25,8 @@
 | 🚀 **Проекты** | 💻 **Технологии** |
 | - | - |
 | [![Explore-With-Me](https://img.shields.io/static/v1?label=&message=Explore-With-Me&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-explore-with-me) | Java 11 (Core, Stream), Spring (Boot, Data), Hibernate, PostgreSQL, Maven, Docker, Lombok, Postman, Swagger |
-| [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-shareit) | Java 11 (Core, Stream), Spring (Boot, Data), Hibernate, PostgreSQL, Maven, Docker, JUnit 5, Mockito, Lombok, REST API |
-| [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/GlazyrinAV/java-filmorate) | Java 11 (Core, Stream), Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok. <br>*Групповой проект. **Личный вклад**: функциональности "Лента новостей" и "Список наиболее популярных фильмов"* |
+| [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-shareit) | Java 11, Spring (Boot, Data), Hibernate, PostgreSQL, Maven, Docker, JUnit 5, Mockito, Lombok, REST API |
+| [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/GlazyrinAV/java-filmorate) | Java 11, Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok. <br><ins>Групповой проект.</ins> **Личный вклад**: функциональности "Лента новостей" и "Список популярных фильмов" |
 
 
 ## :fire: Активности - [Leetcode](https://leetcode.com/osipowko/):
