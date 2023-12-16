@@ -22,12 +22,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&theme=tokyonight)](https://github.com/OsipovKonstantin/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
 
-## 💻 Активности:
-[LeetCode](https://leetcode.com/osipowko/):
+## 💻 Активности - [Leetcode](https://leetcode.com/osipowko/):
 
 
 ![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
