@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 [LeetCode](https://leetcode.com/osipowko/):
+
 ![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
 
 <!--
