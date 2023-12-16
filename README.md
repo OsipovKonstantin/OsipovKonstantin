@@ -5,7 +5,7 @@
 
 👨‍💻 Опыт разработки 1 год
 
-## 💻 Мой стек:
+## 🛠 Мой стек:
 ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)
 ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=90fd87) 
 ![Postgres](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
@@ -22,10 +22,16 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
 
-## 💻 Активности - [Leetcode](https://leetcode.com/osipowko/):
+| 💻 **Технологии** | 🚀 **Проекты** |
+| - | - |
+| Java 11 (Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Docker, Lombok, Postman, Swagger | [![Explore-With-Me](https://img.shields.io/static/v1?label=&message=Explore-With-Me&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-explore-with-me) |
+| Java 11(Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Docker, JUnit 5, Mockito, Lombok, RESTfulAPI | [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-shareit) |
+| *Групповая разработка. Личный вклад: функциональности "Лента новостей" и "Список наиболее популярных фильмов"* Java 11(Core, Stream), Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/GlazyrinAV/java-filmorate) |
+
+
+## :fire: Активности - [Leetcode](https://leetcode.com/osipowko/):
 
 
 ![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
