@@ -1,4 +1,4 @@
-<h2 align="left">💫 Java-разработчик</h2>
+<h2 align="left">🌠 Java-разработчик</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osipov_ko)
 [![WhatsApp Badge](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.clck.bar/79850977659)](https://wa.clck.bar/79850977659)
