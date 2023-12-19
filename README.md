@@ -35,4 +35,4 @@
 
 ![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osipovkonstantin&label=Количество%20просмотров&color=0e75b6&style=flat" alt="osipovkonstantin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osipovkonstantin&label=Profile%20views&color=0e75b6&style=flat" alt="osipovkonstantin" /> </p>
