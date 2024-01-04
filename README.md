@@ -6,7 +6,7 @@
 
 👨‍💻 Опыт разработки 1 год. В активном поиске работы
 
-## 🛠 Мой стек:
+## 🛠 Мой стек
 [![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=90fd87)](https://spring.io/projects/spring-framework) 
 [![Postgresql](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
@@ -21,7 +21,6 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![RestAPI](https://img.shields.io/badge/-rest%20api-007EC0?style=for-the-badge&logo=restapi&logoColor=275ecf)](https://restfulapi.net/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
 
 | 🚀 **Проекты** | 💻 **Технологии** |
 | - | - |
@@ -30,9 +29,9 @@
 | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-filmorate) | Java 11, Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok. Ссылка дана на **личный проект**. <br>Продолжение - [групповой проект](https://github.com/GlazyrinAV/java-filmorate), для которого разработал функциональности "Лента новостей" и "Список популярных фильмов" |
 
 
-## :fire: Активности - [Leetcode](https://leetcode.com/osipowko/):
-
-
+## :fire: Активности - [Leetcode](https://leetcode.com/osipowko/)
 ![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osipovkonstantin&label=Profile%20views&color=0e75b6&style=flat" alt="osipovkonstantin" /> </p>
