@@ -4,7 +4,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.clck.bar/79850977659)](https://wa.clck.bar/79850977659)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osipowko@gmail.com)
 
-👨‍💻 Опыт разработки 13 месяцев. В активном поиске работы
+👨‍💻 Опыт разработки 1 год и 1 месяц. В активном поиске работы
 
 ## 🛠 Мой стек
 [![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)](https://www.oracle.com/java/)
