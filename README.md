@@ -36,9 +36,16 @@
 | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-filmorate) | Java 11, Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok. Ссылка дана на **личный проект**. <br>Продолжение - [групповой проект](https://github.com/GlazyrinAV/java-filmorate), для которого разработал функциональности "Лента новостей" и "Список популярных фильмов" |
 
 
-## :fire: Активности - [Leetcode](https://leetcode.com/osipowko/)
-![OsipovKonstantin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=osipowko)
+## :fire: Активности - leetcode и codewars
 
+<div align="center">
+<a href="https://leetcode.com/u/osipowko/" target="_blank"><img src="https://leetcode-stats-six.vercel.app/api?username=osipowko" alt="OsipovKonstantin's LeetCode stats"></a>
+  <br>
+  <a href="https://www.codewars.com/users/OsipovKonstantin" target="_blank"><img src="https://www.codewars.com/users/OsipovKonstantin/badges/large" alt="badge showing Konstantin Osipov rating on Codewars"></a>
+
+[//]: # (  Solve <b>...</b> tasks on <a href="https://www.codewars.com/users/OsipovKonstantin">Codewars</a>, <b>...</b> - on <a href="">...</a>)
+  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osipovkonstantin&label=Profile%20views&color=0e75b6&style=flat" alt="osipovkonstantin" /> </p>
