@@ -45,7 +45,6 @@
 
 [//]: # (  Solve <b>...</b> tasks on <a href="https://www.codewars.com/users/OsipovKonstantin">Codewars</a>, <b>...</b> - on <a href="">...</a>)
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsipovKonstantin&layout=compact)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osipovkonstantin&label=Profile%20views&color=0e75b6&style=flat" alt="osipovkonstantin" /> </p>
