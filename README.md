@@ -1,12 +1,10 @@
 <h2 align="left">💫 Java-разработчик</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osipov_ko)
-[![WhatsApp Badge](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.clck.bar/79850977659)](https://wa.clck.bar/79850977659)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osipowko@gmail.com)
 
-👨‍💻 Опыт разработки 1 год и 8 месяцев. В активном поиске работы
+👨‍💻 Опыт разработки 1 год и 9 месяцев. В активном поиске работы
 
-## 🛠 Мой стек
+## 🛠 Активный стек
 [![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6AAD3D?style=for-the-badge&logo=spring-boot&logoColor=90fd87)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/-Spring%20Security-6AAD3D?style=for-the-badge&logo=spring-security&logoColor=90fd87)](https://spring.io/projects/spring-security)
