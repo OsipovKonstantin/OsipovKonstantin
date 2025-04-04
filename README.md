@@ -2,7 +2,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osipov_ko)
 
-👨‍💻 Опыт разработки 1 год и 9 месяцев. В активном поиске работы
+👨‍💻 Опыт разработки 1 год и 10 месяцев. В активном поиске работы
 
 ## 🛠 Активный стек
 [![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)](https://www.oracle.com/java/)
