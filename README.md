@@ -40,7 +40,7 @@
 ## :fire: Активности - leetcode и codewars
 
 <div align="center">
-<a href="https://leetcode.com/u/osipowko/" target="_blank"><img src="https://leetcard.jacoblin.cool/osipov_ko?border=0&radius=20" alt="OsipovKonstantin's LeetCode stats"></a>
+<a href="https://leetcode.com/u/osipov_ko/" target="_blank"><img src="https://leetcard.jacoblin.cool/osipov_ko?border=0&radius=20" alt="OsipovKonstantin's LeetCode stats"></a>
   <br>
   <a href="https://www.codewars.com/users/OsipovKonstantin" target="_blank"><img src="https://www.codewars.com/users/OsipovKonstantin/badges/large" alt="badge showing Konstantin Osipov rating on Codewars"></a>
 
