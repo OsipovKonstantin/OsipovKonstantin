@@ -2,9 +2,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osipov_ko)
 
-👨‍💻 Опыт разработки 1 год и 10 месяцев. В активном поиске работы
+👨‍💻 Опыт разработки 2.2 года
 
-## 🛠 Активный стек
+## 🛠 Стек
 [![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6AAD3D?style=for-the-badge&logo=spring-boot&logoColor=90fd87)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/-Spring%20Security-6AAD3D?style=for-the-badge&logo=spring-security&logoColor=90fd87)](https://spring.io/projects/spring-security)
@@ -37,7 +37,7 @@
 | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/OsipovKonstantin/java-filmorate) | Java 11, Spring Boot, Maven, JUnit 5, JDBC, H2, Lombok. Ссылка дана на **личный проект**. <br>Продолжение - [групповой проект](https://github.com/GlazyrinAV/java-filmorate), для которого разработал функциональности "Лента новостей" и "Список популярных фильмов" |
 
 
-## :fire: Активности - leetcode и codewars
+## :fire: Дополнительная практика - leetcode & codewars
 
 <div align="center">
 <a href="https://leetcode.com/u/osipov_ko/" target="_blank"><img src="https://leetcard.jacoblin.cool/osipov_ko?border=0&radius=20" alt="OsipovKonstantin's LeetCode stats"></a>
