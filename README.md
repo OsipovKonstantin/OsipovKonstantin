@@ -2,7 +2,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/osipov_ko)
 
-👨‍💻 Опыт коммерческой разработки 1.5 года
+👨‍💻 1.5 года коммерческого опыта командной разработки
 
 ## 🛠 Стек
 [![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873)](https://www.oracle.com/java/)
